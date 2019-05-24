@@ -1,0 +1,10 @@
+.git
+.github
+.idea
+.vscode
+WalletWasabi.Community
+WalletWasabi.Documentation
+WalletWasabi.Gui
+WalletWasabi.Packager
+WalletWasabi.Tests
+WalletWAsabi.WindowsInstaller
